@@ -1,1 +1,3 @@
-# GDSC_Website
+# dscmitadt.github.io
+
+"# gdsc-mitadt-website" 
